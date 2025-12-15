@@ -1,0 +1,29 @@
+======================================================================
+ASSIGNMENT 6 PART 2 - AUTOGRADER FEEDBACK
+======================================================================
+
+Total Score: 10.00 / 10.00
+
+----------------------------------------------------------------------
+DETAILED BREAKDOWN
+----------------------------------------------------------------------
+
+Baseline (for submission): 4.00 / 4.00
+  ✓ You submitted files - great start!
+
+Code Functions: 3.00 / 3.00
+  ✓ All functions implemented!
+
+Visualization: 1.00 / 1.00
+  ✓ Visualization file found!
+
+Writeup: 2.00 / 2.00
+  ✓ All questions answered!
+
+----------------------------------------------------------------------
+NEXT STEPS
+----------------------------------------------------------------------
+
+Excellent work! Your submission is complete.
+
+Questions? See Mr. Berg during office hours or in class.
